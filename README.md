@@ -6,7 +6,7 @@ Most of their work is shared on this huge [forum thread](http://www.astroclub.ki
 
 The current work is described [here](http://www.iceinspace.com.au/forum/showthread.php?t=146493).
 
-The source code for the camera firmware can be found [here](https://github.com/CookingBlight/CAM86-FW-Blight) while the compatible ASCOM driver can be found [here](https://github.com/).
+The source code for the camera firmware can be found [here](https://github.com/CookingBlight/CAM86-FW-Blight) while the compatible ASCOM driver can be found [here](https://github.com/CookingBlight/CAM86-ASCOM-Blight).
 
 # See also
 [Information in Ukrainian](http://astroccd.org/)
